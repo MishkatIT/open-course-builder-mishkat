@@ -1,0 +1,29 @@
+{
+  "id": "69c659dd-02ac-4a62-a4d1-9fec2516fd5a",
+  "title": "cp",
+  "description": "testing",
+  "createdAt": "2026-06-08T16:18:37.348Z",
+  "updatedAt": "2026-06-08T16:21:45.046Z",
+  "lessons": [
+    {
+      "id": "3a29c552-11e3-4565-817c-2af612149d49",
+      "title": "testing",
+      "type": "youtube",
+      "resource": "https://youtube.com",
+      "notes": "",
+      "isCompleted": false,
+      "completeDate": null,
+      "createdAt": "2026-06-08T16:18:58.117Z"
+    },
+    {
+      "id": "1e2a1c1a-138a-44e8-95cf-a19a9485786f",
+      "title": "ttest",
+      "type": "markdown",
+      "resource": "",
+      "notes": "# Heading\n\nSome **bold** and *italic* text.\n\n- List item 1\n- List item 2\n\n## Code Example\n\n```js\nconsole.log('code');\n```",
+      "isCompleted": true,
+      "completeDate": "2026-06-08T16:21:42.438Z",
+      "createdAt": "2026-06-08T16:20:59.591Z"
+    }
+  ]
+}
